@@ -1,0 +1,11 @@
+c:\Users\sotso\projects\sudoku\bin\Debug\netcoreapp3.0\sudoku.exe
+c:\Users\sotso\projects\sudoku\bin\Debug\netcoreapp3.0\sudoku.deps.json
+c:\Users\sotso\projects\sudoku\bin\Debug\netcoreapp3.0\sudoku.runtimeconfig.json
+c:\Users\sotso\projects\sudoku\bin\Debug\netcoreapp3.0\sudoku.runtimeconfig.dev.json
+c:\Users\sotso\projects\sudoku\bin\Debug\netcoreapp3.0\sudoku.dll
+c:\Users\sotso\projects\sudoku\bin\Debug\netcoreapp3.0\sudoku.pdb
+c:\Users\sotso\projects\sudoku\obj\Debug\netcoreapp3.0\sudoku.csprojAssemblyReference.cache
+c:\Users\sotso\projects\sudoku\obj\Debug\netcoreapp3.0\sudoku.AssemblyInfoInputs.cache
+c:\Users\sotso\projects\sudoku\obj\Debug\netcoreapp3.0\sudoku.AssemblyInfo.cs
+c:\Users\sotso\projects\sudoku\obj\Debug\netcoreapp3.0\sudoku.dll
+c:\Users\sotso\projects\sudoku\obj\Debug\netcoreapp3.0\sudoku.pdb
